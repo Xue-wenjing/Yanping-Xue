@@ -64,8 +64,7 @@ Zhengzhou University, China.
 ### PUBLICATION
 
 Jiawei Chen, Yanping Xue, Leihao Ren. **Deep Learning-Based Predicting Tumor Grades and Subtypes, and Expression of Multiple Pathologic Markers in Meningiomas.** European Radiology(IF:7, co-first authors)&emsp;&emsp;*Under Review*   
-Tianze Cui, Yanping Xue. **fMRI data analysis and statistic in patients with facial synkinesis.** Nature Commounications (IF:18, co-first authors)  
-*In Preparation*  
+Tianze Cui, Yanping Xue. **fMRI data analysis and statistic in patients with facial synkinesis.** Nature Commounications (IF:18, co-first authors)&emsp;&emsp;*In Preparation*  
 Yanping Xue. **Functional network analysis in piriform cortex kindling-induced seizure model -- A multimodal fMRI study.** NeuroImage(IF:6.5, first author)&emsp;&emsp;*Working Paper*
 
 
