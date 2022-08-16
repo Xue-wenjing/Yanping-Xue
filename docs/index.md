@@ -1,6 +1,4 @@
-## Yanping Xue
-
-Welcome to my homepage!
+## Welcome to my homepage!
 
 Institutes of Brain Science, Fudan University, Small Animal Magnetic Resonance Imaging Laboratory, 130 Dongan Road, Shanghai, 200032  
 Phone: +86 188 0033 9986 | Email: 20211520022@fudan.edu.cn
@@ -8,7 +6,7 @@ Phone: +86 188 0033 9986 | Email: 20211520022@fudan.edu.cn
 
 ### EDUCATION
 
-Fudan University, Institute for Brain Science       2020.09 – Present  
+Fudan University, Institute for Brain Science&emsp;&emsp;2020.09 – Present  
 Neurobiology  
 Expected Degree: Master            GPA: N/A
 
