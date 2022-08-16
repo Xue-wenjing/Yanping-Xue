@@ -2,7 +2,7 @@
 
 Welcome to my homepage!
 
-Institutes of Brain Science, Fudan University, Small Animal Magnetic Resonance Imaging Laboratory, 130 Dongan Road, Shanghai, 200032
+Institutes of Brain Science, Fudan University, Small Animal Magnetic Resonance Imaging Laboratory, 130 Dongan Road, Shanghai, 200032  
 Phone: +86 188 0033 9986 | Email: 20211520022@fudan.edu.cn
 
 
