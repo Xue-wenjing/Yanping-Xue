@@ -71,7 +71,7 @@ Yanping Xue. **Functional network analysis in piriform cortex kindling-induced s
 
 ### HONORS & AWARDS
 
-•	First-class scholarship for outstanding students at Fudan University&emsp;&emsp;2021.06
-•	Outstanding Graduates of Henan Province, China &emsp;&emsp;2020.06
-•	Outstanding Graduate of Zhengzhou University &emsp;&emsp;2020.06
-•	Received the first-class scholarship for outstanding students at Zhengzhou University for four consecutive years&emsp;&emsp;2016-2020
+•	First-class scholarship for outstanding students at Fudan University&emsp;&emsp;2021.06  
+•	Outstanding Graduates of Henan Province, China &emsp;&emsp;2020.06  
+•	Outstanding Graduate of Zhengzhou University &emsp;&emsp;2020.06  
+•	Received the first-class scholarship for outstanding students at Zhengzhou University for four consecutive years&emsp;&emsp;2016-2020  
