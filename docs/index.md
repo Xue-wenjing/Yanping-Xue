@@ -6,11 +6,11 @@ Phone: +86 188 0033 9986&emsp;|&emsp; Email: 20211520022@fudan.edu.cn
 
 ### EDUCATION
 
-Fudan University, Institute for Brain Science&emsp;&emsp;2020.09 – Present  
+Fudan University, Institute for Brain Science&emsp;&emsp;*2020.09 – Present*  
 Neurobiology  
 Expected Degree: Master&emsp;&emsp;GPA: N/A
 
-Zhengzhou University, College of Software&emsp;&emsp;2016.09 – 2020.06  
+Zhengzhou University, College of Software&emsp;&emsp;*2016.09 – 2020.06*  
 Computer and Science Technology  
 Final Degree: Bachelor  &emsp;&emsp;GPA: 3.54/4.0 &emsp;&emsp;Final Rank: 22/441(top 5%) &emsp;&emsp;CET-6: 503
 
@@ -71,7 +71,7 @@ Yanping Xue. **Functional network analysis in piriform cortex kindling-induced s
 
 ### HONORS & AWARDS
 
-•	First-class scholarship for outstanding students at Fudan University&emsp;&emsp;2021.06  
-•	Outstanding Graduates of Henan Province, China &emsp;&emsp;2020.06  
-•	Outstanding Graduate of Zhengzhou University &emsp;&emsp;2020.06  
-•	Received the first-class scholarship for outstanding students at Zhengzhou University for four consecutive years&emsp;&emsp;2016-2020  
+•	First-class scholarship for outstanding students at Fudan University&emsp;&emsp;*2021.06*  
+•	Outstanding Graduates of Henan Province, China &emsp;&emsp;*2020.06*  
+•	Outstanding Graduate of Zhengzhou University &emsp;&emsp;*2020.06*  
+•	Received the first-class scholarship for outstanding students at Zhengzhou University for four consecutive years&emsp;&emsp;*2016-2020*  
