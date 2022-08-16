@@ -8,8 +8,8 @@ Phone: +86 188 0033 9986 | Email: 20211520022@fudan.edu.cn
 
 ### EDUCATION
 
-Fudan University, Institute for Brain Science       2020.09 – Present
-Neurobiology
+Fudan University, Institute for Brain Science       2020.09 – Present  
+Neurobiology  
 Expected Degree: Master            GPA: N/A
 
 Zhengzhou University, College of Software			      2016.09 – 2020.06
