@@ -16,9 +16,9 @@ Final Degree: Bachelor  &emsp;&emsp;GPA: 3.54/4.0 &emsp;&emsp;Final Rank: 22/441
 
 ### TECHNICAL SKILLS
 
-Languages&emsp;&emsp; &emsp;MATLAB, Python, C++, R, Shell
-Analysis Tools&emsp;&emsp;FSL, AFNI, SPM, ITK-SNAP, Pytorch
-Field of Study&emsp;&emsp;fMRI Data Analysis, Machine Learning, Deep Learning
+Languages&emsp;&emsp; &emsp;MATLAB, Python, C++, R, Shell  
+Analysis Tools&emsp;&emsp;FSL, AFNI, SPM, ITK-SNAP, Pytorch  
+Field of Study&emsp;&emsp;fMRI Data Analysis, Machine Learning, Deep Learning  
 
 ### REVELENT COURSES
 
